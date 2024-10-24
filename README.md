@@ -1,4 +1,8 @@
 # Exp-14-Implement-Hash-Function
+
+### REG N0 : 212223240012
+### NAME : Aravindan D
+
 ## AIM:
 To implement a simple hash function in C to convert a string into a fixed-size hash value using basic hashing techniques.
 
@@ -55,7 +59,8 @@ int main() {
 ```
 ## OUTPUT:
 
-![cry exp14](https://github.com/user-attachments/assets/6997663d-c3da-4710-92b7-d8a7ece47215)
+![image](https://github.com/user-attachments/assets/25afe1da-5846-4cc7-9699-3e79763a12e5)
+
 
 
 ## RESULT:
